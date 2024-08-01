@@ -1,4 +1,4 @@
-# Gender-inequality
+# Gender inequality and its impact on Economic Growth of a country
 The primary objective of this project is to analyze socio-economic data to understand the impact of gender inequality on economic growth and to propose data-driven strategies to promote gender equality and enhance economic development. The specific objectives are:
 
 ●To collect and analyze socio-economic data from reliable sources related to gender inequality and economic growth.
