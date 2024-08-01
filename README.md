@@ -12,3 +12,8 @@ The primary objective of this project is to analyze socio-economic data to under
 ●To propose actionable strategies and policy recommendations to address gender disparities and promote inclusive economic growth.
 
 ● To assess the potential impact of these strategies on achieving SDG 5, SDG 8 and fostering sustainable economic development.
+
+
+Datasets used:
+https://www.kaggle.com/datasets/gianinamariapetrascu/gender-inequality-index
+https://www.kaggle.com/datasets/iamsouravbanerjee/gross-national-income-per-capita
