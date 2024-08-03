@@ -20,3 +20,5 @@ This repository contains various machine learning model aimed at predicting econ
 Datasets used:
 https://www.kaggle.com/datasets/gianinamariapetrascu/gender-inequality-index
 https://www.kaggle.com/datasets/iamsouravbanerjee/gross-national-income-per-capita
+
+(Team project)
