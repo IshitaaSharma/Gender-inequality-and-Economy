@@ -14,6 +14,9 @@ The primary objective of this project is to analyze socio-economic data to under
 ● To assess the potential impact of these strategies on achieving SDG 5, SDG 8 and fostering sustainable economic development.
 
 
+This repository contains various machine learning model aimed at predicting economic growth based on a wide range of attributes regarding the gender inequality, ranging from no. of seats in parliament to litrecy rates. While the current model exhibits a modest R2 score of 0.88, it establishes a fundamental groundwork for future advancements and refinements in machine learning. credits: kaggle for the dataset. 
+
+
 Datasets used:
 https://www.kaggle.com/datasets/gianinamariapetrascu/gender-inequality-index
 https://www.kaggle.com/datasets/iamsouravbanerjee/gross-national-income-per-capita
